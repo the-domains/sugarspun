@@ -1,0 +1,28 @@
+name: sugarspun
+favicon: null
+layout_spectrum: 0.6063443985767663
+typography_spectrum: 0.7904947597999126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6387452885974199
+  lightness: 0.7868801837321371
+  saturation: 0.5665247470606118
+  rhythmicContrast: 0.11256830766797066
+purpose: []
